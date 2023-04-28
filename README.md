@@ -7,4 +7,5 @@
 5.預防初始化時即達到收斂條件，圖形畫不出來，所以一開始就先畫圖。
 6.自動移除上個圖形，繪製下個圖形，直到達到設定的收斂條件為止。
 
-![image](https://user-images.githubusercontent.com/45446409/235053276-9e4725a3-b22d-4088-8b91-92a19e2b6b40.png)
+![image](https://user-images.githubusercontent.com/45446409/235053514-a2bad322-0a76-4e5d-8a4d-76866a35423c.png)
+
